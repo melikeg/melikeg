@@ -6,9 +6,9 @@
 
 ## Languages & Tools 🧰
 
-|Html | Css | Js | Git | Github |
-|-|-|-|-|-|
-| <img style="width: 200px" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47ufuunnstozgc1osyvk5gnt6ro2243wlafm12byfp&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif?cid=ecf05e47dupqwg0735qiby50o8v2yniiz0u4oi8ojr9hp2g0&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif?cid=ecf05e47210fkhb34bvbof1jr9lcb46amln6gizpn1qvvrev&rid=giphy.gif&ct=ts"> | <img style="width: 200px" src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47g7uxk9w1tafoqahnjx3nmalieu765nudzpb970bq&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47jpo4yqj97rlttj9ddxdlpdf6x7besozmmiuxqnep&rid=giphy.gif&ct=g"> |
+|Html | Css | Js | Git | Github | Bootstrap |
+|-|-|-|-|-|-|
+| <img style="width: 200px" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47ufuunnstozgc1osyvk5gnt6ro2243wlafm12byfp&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif?cid=ecf05e47dupqwg0735qiby50o8v2yniiz0u4oi8ojr9hp2g0&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif?cid=ecf05e47210fkhb34bvbof1jr9lcb46amln6gizpn1qvvrev&rid=giphy.gif&ct=ts"> | <img style="width: 200px" src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47g7uxk9w1tafoqahnjx3nmalieu765nudzpb970bq&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47jpo4yqj97rlttj9ddxdlpdf6x7besozmmiuxqnep&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47jcsnnec65zqwa6fjaw7vv4rc7sbgem51jd3otqna&rid=giphy.gif&ct=s"> |
 
 ## My Hobbies 🍿
 
