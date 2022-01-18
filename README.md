@@ -1,23 +1,36 @@
 ## Hi 👋 , I'm Melike
 
-| <img style="width: 200px" src="https://media0.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif?cid=ecf05e47o2j77fl1wqfq5hidq34e7j7r49ybthmqs9z8ejrx&rid=giphy.gif&ct=g"> | I studied Computer Engineering at Karabuk University. I am currently interested in front-end web development. |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+<img align="left" style="width: 150px" src="https://media0.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif?cid=ecf05e47o2j77fl1wqfq5hidq34e7j7r49ybthmqs9z8ejrx&rid=giphy.gif&ct=g">
+<p> <br /> I am a computer engineer. I am interested in projects that require creative and analytical thinking. I can adapt easily and have good relations with the social environment. I enjoy archery, design and decoration, outdoor walks and reading fantasy books. I'm currently dealing with JavaScript, React and Node.js.</p>
 
+<br />
+<br />
 
 ## Languages & Tools 🧰
 
-|Html | Css | Js | Git | Github | Bootstrap |
-|-|-|-|-|-|-|
-| <img style="width: 200px" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47ufuunnstozgc1osyvk5gnt6ro2243wlafm12byfp&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif?cid=ecf05e47dupqwg0735qiby50o8v2yniiz0u4oi8ojr9hp2g0&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif?cid=ecf05e47210fkhb34bvbof1jr9lcb46amln6gizpn1qvvrev&rid=giphy.gif&ct=ts"> | <img style="width: 200px" src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47g7uxk9w1tafoqahnjx3nmalieu765nudzpb970bq&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47jpo4yqj97rlttj9ddxdlpdf6x7besozmmiuxqnep&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47jcsnnec65zqwa6fjaw7vv4rc7sbgem51jd3otqna&rid=giphy.gif&ct=s"> |
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-## My Hobbies 🍿
-
-|Archery | Outdoor walking | Serials | Cooking |
-|-|-|-|-|
-| <img style="width: 200px" src="https://media3.giphy.com/media/W5Cz6indpiWa1kNo9H/giphy.gif?cid=ecf05e47gl0aefp6fih322e5mymqn0tdusqi7dcqchrxsmed&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media0.giphy.com/media/jTfJfRhlSxn4QMSx9A/giphy.gif?cid=ecf05e47btu37oq958r5ontcet0un7t3frgfsbmv9ejt4iid&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media4.giphy.com/media/fnxUbXxBV1ySlFYKr1/giphy.gif?cid=ecf05e47hezrujxd4i067oyulfjdijza02zrhpul3q8brmxu&rid=giphy.gif&ct=s"> | <img style="width: 200px" src="https://media2.giphy.com/media/dxa8gv3pmkh79B6SxJ/giphy.gif?cid=ecf05e47ppslhv6yv398cltzju3aq0k9ibmfn8snnj1e02kl&rid=giphy.gif&ct=s"> |
+<br />
+<br />
 
 ## Contact 📧
-<a href="https://www.linkedin.com/in/melike-g%C3%B6rg%C3%BCl%C3%BC-74ba241b6/"><img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> <a href="https://github.com/melikeg"><img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png"></a> <a href="mailto:mail@melikegorgulu.119@gmail.com"><img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/481/481659.png"></a>
+
+[![GitHub followers](https://img.shields.io/github/followers/omrsfylmz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/melikeg?tab=followers)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%B6rg%C3%BCl%C3%BC-74ba241b6/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@melikegorgulu.119@gmail.com)
+
+
+
 
 
 <!--
