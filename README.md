@@ -25,7 +25,7 @@
 
 ## Contact 📧
 
-[![GitHub followers](https://img.shields.io/github/followers/omrsfylmz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/melikeg?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/melikeg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/melikeg?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%B6rg%C3%BCl%C3%BC-74ba241b6/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@melikegorgulu.119@gmail.com)
 
