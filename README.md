@@ -1,7 +1,8 @@
 ## Hi 👋 , I'm Melike
 
-<img align="left" style="width: 150px" src="https://media0.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif?cid=ecf05e47o2j77fl1wqfq5hidq34e7j7r49ybthmqs9z8ejrx&rid=giphy.gif&ct=g">
-<p> <br /> I am a computer engineer. I am interested in projects that require creative and analytical thinking. I can adapt easily and have good relations with the social environment. I enjoy archery, design and decoration, outdoor walks and reading fantasy books. I'm currently dealing with JavaScript and Node.js.</p>
+<img align="left" style="width:100%;height:0;padding-bottom:83%;padding:%5;position:relative;" src="https://media0.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif?cid=ecf05e47o2j77fl1wqfq5hidq34e7j7r49ybthmqs9z8ejrx&rid=giphy.gif&ct=g" width="15%" height="15%">
+
+<div> <br> I am a computer engineer. I am interested in projects that require creative and analytical thinking. I can adapt easily and have good relations with the social environment. I enjoy archery, design and decoration, outdoor walks and reading fantasy books. I'm currently dealing with JavaScript and Node.js.</div>
 
 <br />
 
